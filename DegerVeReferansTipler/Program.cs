@@ -24,6 +24,7 @@ namespace DegerVeReferansTipler
             //bellekte stack ve hip diye iki alan bulunur.
             //değer tip olanlar stack içinde gerçekleşir. 
             //new heap içinde yeni bir adres, bir yer oluştur demek.
+            //void bir işlem yap demektir. git şu kaydı yap git şu yazıyı ekrana bas gibi.
             Console.WriteLine(sayi1);
             Console.WriteLine(sayilar1[0]);
 
