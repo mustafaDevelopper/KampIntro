@@ -1,0 +1,12 @@
+C:\Users\musta\Desktop\c#\KampIntro\Constructors\bin\Debug\netcoreapp3.1\Constructors.exe
+C:\Users\musta\Desktop\c#\KampIntro\Constructors\bin\Debug\netcoreapp3.1\Constructors.deps.json
+C:\Users\musta\Desktop\c#\KampIntro\Constructors\bin\Debug\netcoreapp3.1\Constructors.runtimeconfig.json
+C:\Users\musta\Desktop\c#\KampIntro\Constructors\bin\Debug\netcoreapp3.1\Constructors.runtimeconfig.dev.json
+C:\Users\musta\Desktop\c#\KampIntro\Constructors\bin\Debug\netcoreapp3.1\Constructors.dll
+C:\Users\musta\Desktop\c#\KampIntro\Constructors\bin\Debug\netcoreapp3.1\Constructors.pdb
+C:\Users\musta\Desktop\c#\KampIntro\Constructors\obj\Debug\netcoreapp3.1\Constructors.AssemblyInfoInputs.cache
+C:\Users\musta\Desktop\c#\KampIntro\Constructors\obj\Debug\netcoreapp3.1\Constructors.AssemblyInfo.cs
+C:\Users\musta\Desktop\c#\KampIntro\Constructors\obj\Debug\netcoreapp3.1\Constructors.csproj.CoreCompileInputs.cache
+C:\Users\musta\Desktop\c#\KampIntro\Constructors\obj\Debug\netcoreapp3.1\Constructors.dll
+C:\Users\musta\Desktop\c#\KampIntro\Constructors\obj\Debug\netcoreapp3.1\Constructors.pdb
+C:\Users\musta\Desktop\c#\KampIntro\Constructors\obj\Debug\netcoreapp3.1\Constructors.genruntimeconfig.cache
