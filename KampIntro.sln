@@ -17,15 +17,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DegerVeReferansTipler", "De
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP1", "OOP1\OOP1.csproj", "{AC1396F8-0250-4874-B27E-7E8C1A3FE3D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyonlar", "Koleksiyonlar\Koleksiyonlar.csproj", "{80FDEF90-E55C-4374-92EA-040E87551173}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Koleksiyonlar", "Koleksiyonlar\Koleksiyonlar.csproj", "{80FDEF90-E55C-4374-92EA-040E87551173}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{4DC08793-50DE-4090-8F91-F2230FCE453A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{4DC08793-50DE-4090-8F91-F2230FCE453A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReferenceTypes", "ReferenceTypes\ReferenceTypes.csproj", "{3A240646-633D-4A3F-951B-FEA09546225E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReferenceTypes", "ReferenceTypes\ReferenceTypes.csproj", "{3A240646-633D-4A3F-951B-FEA09546225E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructors", "Constructors\Constructors.csproj", "{D4A8AF37-786D-43F7-9105-B105A50D4ADD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Constructors", "Constructors\Constructors.csproj", "{D4A8AF37-786D-43F7-9105-B105A50D4ADD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{6E2B4C3B-545C-4CBC-836C-E08A4B6108CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generics", "Generics\Generics.csproj", "{6E2B4C3B-545C-4CBC-836C-E08A4B6108CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP2", "OOP2\OOP2.csproj", "{661F4632-4A9B-497D-93DD-CD45255FCACD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP3", "OOP3\OOP3.csproj", "{1232FC16-BF07-465F-ABC6-55DCBB4AC17D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +85,14 @@ Global
 		{6E2B4C3B-545C-4CBC-836C-E08A4B6108CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6E2B4C3B-545C-4CBC-836C-E08A4B6108CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6E2B4C3B-545C-4CBC-836C-E08A4B6108CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{661F4632-4A9B-497D-93DD-CD45255FCACD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{661F4632-4A9B-497D-93DD-CD45255FCACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{661F4632-4A9B-497D-93DD-CD45255FCACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{661F4632-4A9B-497D-93DD-CD45255FCACD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1232FC16-BF07-465F-ABC6-55DCBB4AC17D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1232FC16-BF07-465F-ABC6-55DCBB4AC17D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1232FC16-BF07-465F-ABC6-55DCBB4AC17D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1232FC16-BF07-465F-ABC6-55DCBB4AC17D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

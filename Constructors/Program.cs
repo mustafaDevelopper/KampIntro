@@ -22,10 +22,10 @@ namespace Constructors // yapıcı demektir . Yapıcı blok anlamına gelir.
                 
         }
         //default constructor
-        public Customer(int id, string firstName, string LastName, string city)
+        public Customer(int id, string firstName, string lastName, string city)
         {
             FirstName = firstName;
-            LastName = LastName;
+            LastName = lastName;
             Id = id;
             City = city;
         }
