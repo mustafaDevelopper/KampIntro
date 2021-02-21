@@ -10,3 +10,4 @@ C:\Users\musta\Desktop\c#\KampIntro\ClassIntro\obj\Debug\netcoreapp3.1\ClassIntr
 C:\Users\musta\Desktop\c#\KampIntro\ClassIntro\obj\Debug\netcoreapp3.1\ClassIntro.dll
 C:\Users\musta\Desktop\c#\KampIntro\ClassIntro\obj\Debug\netcoreapp3.1\ClassIntro.pdb
 C:\Users\musta\Desktop\c#\KampIntro\ClassIntro\obj\Debug\netcoreapp3.1\ClassIntro.genruntimeconfig.cache
+C:\Users\musta\Desktop\c#\KampIntro\ClassIntro\obj\Debug\netcoreapp3.1\ClassIntro.csprojAssemblyReference.cache

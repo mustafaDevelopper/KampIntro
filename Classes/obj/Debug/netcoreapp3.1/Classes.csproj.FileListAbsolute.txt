@@ -1,0 +1,13 @@
+C:\Users\musta\Desktop\c#\KampIntro\Classes\bin\Debug\netcoreapp3.1\Classes.exe
+C:\Users\musta\Desktop\c#\KampIntro\Classes\bin\Debug\netcoreapp3.1\Classes.deps.json
+C:\Users\musta\Desktop\c#\KampIntro\Classes\bin\Debug\netcoreapp3.1\Classes.runtimeconfig.json
+C:\Users\musta\Desktop\c#\KampIntro\Classes\bin\Debug\netcoreapp3.1\Classes.runtimeconfig.dev.json
+C:\Users\musta\Desktop\c#\KampIntro\Classes\bin\Debug\netcoreapp3.1\Classes.dll
+C:\Users\musta\Desktop\c#\KampIntro\Classes\bin\Debug\netcoreapp3.1\Classes.pdb
+C:\Users\musta\Desktop\c#\KampIntro\Classes\obj\Debug\netcoreapp3.1\Classes.AssemblyInfoInputs.cache
+C:\Users\musta\Desktop\c#\KampIntro\Classes\obj\Debug\netcoreapp3.1\Classes.AssemblyInfo.cs
+C:\Users\musta\Desktop\c#\KampIntro\Classes\obj\Debug\netcoreapp3.1\Classes.csproj.CoreCompileInputs.cache
+C:\Users\musta\Desktop\c#\KampIntro\Classes\obj\Debug\netcoreapp3.1\Classes.dll
+C:\Users\musta\Desktop\c#\KampIntro\Classes\obj\Debug\netcoreapp3.1\Classes.pdb
+C:\Users\musta\Desktop\c#\KampIntro\Classes\obj\Debug\netcoreapp3.1\Classes.genruntimeconfig.cache
+C:\Users\musta\Desktop\c#\KampIntro\Classes\obj\Debug\netcoreapp3.1\Classes.csprojAssemblyReference.cache
